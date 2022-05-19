@@ -1,0 +1,12 @@
+{
+  "name": "Magic_challenge_Question1",
+  "version": "1.0.0",
+  "description": "this is the magic challenge Question1",
+  "main": "index.js",
+  "author": "Gaamy",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

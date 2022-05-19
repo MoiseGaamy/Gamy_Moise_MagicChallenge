@@ -1,0 +1,10 @@
+{
+  "name": "diplay-second-largest-number",
+  "version": "1.0.0",
+  "description": "a function that diplay the second largest number",
+  "main": "SecLargestNum.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "license": "MIT"
+}
